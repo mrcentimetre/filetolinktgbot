@@ -1,5 +1,4 @@
-  
-{
+ {
     "name": "FileToLinktgbot",
     "description": "Bot to provide links of different types of files you send.",
     "website": "https://t.me/ghostparadise",
@@ -17,4 +16,5 @@
       }
     },
     "stack": "heroku-20"
-  }
+  } 
+
