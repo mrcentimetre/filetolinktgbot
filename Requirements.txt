@@ -1,2 +1,2 @@
-Telebot
+pytelegrambotapi
 Pyshotners
