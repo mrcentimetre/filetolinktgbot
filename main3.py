@@ -3,7 +3,7 @@ import time
 import pyshorteners
 import os
 
-bot_token ='1818695811:AAHH2_vZOm6VWirUSaHJppN78B-0z04PrNY'
+bot_token ='TOKEN'
 
 bot = telebot.TeleBot(token=bot_token) 
 
